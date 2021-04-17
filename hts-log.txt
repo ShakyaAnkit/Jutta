@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 17 Apr 2021 15:26:51 at http://themeht.com/ekocart/html/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://themeht.com/ekocart/html/index.html -O1 "C:\Projects\ekocart" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:32:47	Error: 	"Not Found" (404) at link themeht.com/ekocart/html/about-us-1.html (from themeht.com/ekocart/html/index.html)
+15:32:47	Error: 	"Not Found" (404) at link themeht.com/ekocart/html/product-grid.html (from themeht.com/ekocart/html/index.html)
+15:34:12	Error: 	"Not Found" (404) at link themeht.com/ekocart/html/assets/css/owl.video.play.png (from themeht.com/ekocart/html/assets/css/owl.carousel.css)
+15:34:12	Error: 	"Not Found" (404) at link themeht.com/ekocart/html/assets/img/controls.png (from themeht.com/ekocart/html/assets/css/lightslider.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 21 seconds : 210 links scanned, 205 files written (14093527 bytes overall) [12678512 bytes received at 28749 bytes/sec], 1727233 bytes transferred using HTTP compression in 38 files, ratio 14%, 1.9 requests per connection
+(4 errors, 0 warnings, 0 messages)
